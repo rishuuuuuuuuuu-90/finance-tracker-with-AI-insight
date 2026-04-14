@@ -75,8 +75,8 @@ APP_URL="http://localhost:3000"
 
 ## 📄 License
 
-This project is licensed under the Apache-2.0 License.
+This project is licensed under the License.
 
 ---
 
-Built with ❤️ using Google AI Studio Build.
+Built with ❤️ .
