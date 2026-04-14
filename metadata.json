@@ -1,0 +1,8 @@
+{
+  "name": "FinanceAI",
+  "description": "A full-stack personal finance tracker with AI-powered insights, budget management, and automated receipt scanning.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": []
+}
