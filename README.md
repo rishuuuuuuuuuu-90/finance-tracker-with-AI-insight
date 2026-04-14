@@ -2,7 +2,7 @@
 
 FinanceAI is a comprehensive full-stack application designed to help users track expenses, manage budgets, and receive AI-powered financial coaching. It leverages the power of Google Gemini and Groq to provide deep insights into spending habits and offer personalized financial advice.
 
-![FinanceAI Preview](https://picsum.photos/seed/finance/1200/600)
+
 
 ## 🚀 Features
 
